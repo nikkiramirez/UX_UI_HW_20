@@ -1,6 +1,11 @@
 body{
-    background-color:beige;
-    color:black;
+    background-image: linear-gradient( rgb(255, 255, 255), rgb(255, 0, 238));;
+}
+header{
+    justify-content:center;
+    display: flex;
+    align-content: space-between;
+    background-color: white;
 }
 .card{
     display: inline-flex;
